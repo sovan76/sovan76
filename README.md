@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sovan76" alt="sovan76" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs , Expressjs ,API's ,Reactjs**
+- 🌱 I’m currently learning **Nodejs , Expressjs ,API's ,Reactjs, Graphql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
