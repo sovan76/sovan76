@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sovan chakma</h1>
 <h3 align="center">A passionate end to to end developer </h3>
-<img  align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVwdjY1Zm51NjNyNHJyeG1qMTFhcHhlNXNtbnFjdTllZTlnOGtibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.webp">
+<!-- <img  align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVwdjY1Zm51NjNyNHJyeG1qMTFhcHhlNXNtbnFjdTllZTlnOGtibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.webp"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sovan76&label=Profile%20views&color=0e75b6&style=flat" alt="sovan76" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sovan76" alt="sovan76" /></a> </p>
